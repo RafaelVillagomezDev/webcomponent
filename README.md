@@ -1,2 +1,0 @@
-# webcomponent
-Proyecto webcomponent
